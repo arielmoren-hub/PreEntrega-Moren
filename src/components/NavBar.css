@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css?family=Alex+Brush");
+
+body{
+  background-color: #454545;
+}
+
+
+
+.navBar{
+  background-color: #242424;
+  color: #fcbd24;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 0.5rem
+}
+
+.logo-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0.3rem 0.3rem;
+}
+
+img{
+  border-radius: 50%;
+  margin: 0 0.6rem;
+}
+
+h2{
+  margin: 0 0.6rem;
+}

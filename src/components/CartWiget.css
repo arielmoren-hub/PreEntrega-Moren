@@ -1,0 +1,12 @@
+.cart-widget {
+    display: flex;
+    color: #fcbd24;
+    font-size: 1.5rem;
+}
+
+span{
+    font-size: 0.7rem;
+    height: 20px;
+    width: 30px;
+    
+}
